@@ -17,8 +17,7 @@
 Космопорт «Черезтерновый Кзвёздный»
 Дизайн-студия имени Слишком Известного Персонажа
 
-```css
-.selector {
+```css.selector {
   font-family: "Awesome", Arial, sans-serif;
   color: red;
 }```
